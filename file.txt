@@ -1,0 +1,2 @@
+Hello SLIIT students!
+Welcome to Node.js lab.
