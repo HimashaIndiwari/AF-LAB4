@@ -1,0 +1,19 @@
+{
+  "name": "af-lab4",
+  "version": "1.0.0",
+  "description": "Lab4 NodeJs project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HimashaIndiwari/AF-LAB4.git"
+  },
+  "author": "Himasha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HimashaIndiwari/AF-LAB4/issues"
+  },
+  "homepage": "https://github.com/HimashaIndiwari/AF-LAB4#readme"
+}
